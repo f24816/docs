@@ -1,17 +1,11 @@
-Welcome to Lumache's documentation!
+Welcome to the Wiki!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Anémone** (/anemɔn/) is a Static Site Generator focused on ease of use.
+It uses the `puldown-cmark <https://crates.io/crates/pulldown-cmark>`_ crate to compile Markdown efficiently.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
